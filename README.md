@@ -31,3 +31,13 @@ Services with Highest Cancellation/No-show Rates → Detect problem areas.
 Peak Booking Times (Hour/Day) → Understand customer booking behavior.
 
 Monthly/Seasonal Revenue Trends → Spot revenue patterns by city and service.
+
+📊 Insights
+
+Haircut & Massage generate consistent revenue but show moderate cancellations.
+
+Spa Therapy has high revenue but also more no-shows due to longer duration.
+
+Evenings & weekends are peak booking slots across most cities.
+
+Seasonal spikes are seen in summer months for beauty-related services.
