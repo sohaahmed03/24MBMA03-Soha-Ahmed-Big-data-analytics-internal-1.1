@@ -1,0 +1,8 @@
+service_name,cancellations,total_bookings,cancellation_rate
+Facial,3,7,42.86
+Spa Therapy,2,7,28.57
+Manicure,1,6,16.67
+Hair Coloring,1,6,16.67
+Massage,1,7,14.29
+Pedicure,1,7,14.29
+Haircut,1,10,10

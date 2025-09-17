@@ -1,0 +1,51 @@
+customer_id,customer_name,city,service_id,service_name,booking_date,booking_time,duration,amount_spent,status,rating
+1,Karen Cooke,Hyderabad,1,Haircut,01-05-2025,2025-09-17T11:30:00.000Z,45,500,booked,4
+2,Nicole Woods,Bangalore,5,Pedicure,20-07-2025,2025-09-17T18:30:00.000Z,50,800,cancelled,null
+3,Autumn Evans,Mumbai,3,Massage,20-05-2025,2025-09-17T18:00:00.000Z,90,2000,booked,5
+4,Kevin Cohen,Hyderabad,1,Haircut,19-06-2025,2025-09-17T14:00:00.000Z,45,500,booked,3
+5,Kenneth Sims,Mumbai,1,Haircut,15-05-2025,2025-09-17T17:30:00.000Z,45,500,cancelled,null
+6,Jennifer Lee,Chennai,2,Facial,22-03-2025,2025-09-17T15:00:00.000Z,60,1200,booked,5
+7,David Parker,Delhi,6,Hair Coloring,10-02-2025,2025-09-17T12:30:00.000Z,120,3500,booked,4
+8,Laura Scott,Bangalore,7,Spa Therapy,14-04-2025,2025-09-17T16:00:00.000Z,150,4000,no-show,null
+9,Paul Mitchell,Hyderabad,3,Massage,28-05-2025,2025-09-17T13:00:00.000Z,90,2000,booked,5
+10,Susan Rogers,Delhi,4,Manicure,07-07-2025,2025-09-17T10:00:00.000Z,40,700,booked,4
+11,Emily Peterson,Mumbai,2,Facial,11-06-2025,2025-09-17T12:30:00.000Z,60,1200,booked,3
+12,Michael Russell,Hyderabad,1,Haircut,15-08-2025,2025-09-17T15:30:00.000Z,45,500,booked,4
+13,Sarah Green,Bangalore,5,Pedicure,19-03-2025,2025-09-17T17:00:00.000Z,50,800,booked,5
+14,James Adams,Delhi,3,Massage,23-06-2025,2025-09-17T11:00:00.000Z,90,2000,cancelled,null
+15,Olivia Martinez,Chennai,7,Spa Therapy,12-01-2025,2025-09-17T18:00:00.000Z,150,4000,booked,5
+16,Daniel Foster,Mumbai,6,Hair Coloring,25-02-2025,2025-09-17T10:30:00.000Z,120,3500,booked,3
+17,Ashley Turner,Delhi,4,Manicure,30-04-2025,2025-09-17T13:30:00.000Z,40,700,booked,4
+18,Ryan Cooper,Bangalore,2,Facial,05-03-2025,2025-09-17T16:00:00.000Z,60,1200,no-show,null
+19,Jessica Gray,Hyderabad,1,Haircut,18-05-2025,2025-09-17T12:00:00.000Z,45,500,booked,5
+20,Matthew Baker,Mumbai,5,Pedicure,02-07-2025,2025-09-17T14:30:00.000Z,50,800,booked,3
+21,Linda Hughes,Chennai,3,Massage,08-06-2025,2025-09-17T15:00:00.000Z,90,2000,booked,4
+22,Christopher Ward,Bangalore,7,Spa Therapy,09-05-2025,2025-09-17T11:30:00.000Z,150,4000,booked,5
+23,Amy Diaz,Delhi,2,Facial,17-03-2025,2025-09-17T17:30:00.000Z,60,1200,cancelled,null
+24,Jason Barnes,Hyderabad,6,Hair Coloring,02-04-2025,2025-09-17T10:00:00.000Z,120,3500,booked,4
+25,Michelle Ross,Mumbai,1,Haircut,28-01-2025,2025-09-17T16:30:00.000Z,45,500,booked,3
+26,Andrew Long,Chennai,4,Manicure,19-06-2025,2025-09-17T13:00:00.000Z,40,700,booked,5
+27,Natalie Kelly,Bangalore,5,Pedicure,15-07-2025,2025-09-17T12:30:00.000Z,50,800,booked,4
+28,Joshua Howard,Delhi,7,Spa Therapy,10-08-2025,2025-09-17T15:30:00.000Z,150,4000,no-show,null
+29,Megan Murphy,Hyderabad,3,Massage,14-02-2025,2025-09-17T14:00:00.000Z,90,2000,booked,5
+30,Patrick Reed,Mumbai,2,Facial,21-03-2025,2025-09-17T11:00:00.000Z,60,1200,booked,2
+31,Victoria Perry,Chennai,6,Hair Coloring,11-05-2025,2025-09-17T17:30:00.000Z,120,3500,booked,4
+32,George Bell,Delhi,1,Haircut,22-07-2025,2025-09-17T10:30:00.000Z,45,500,booked,5
+33,Samantha Bailey,Bangalore,4,Manicure,06-06-2025,2025-09-17T18:00:00.000Z,40,700,booked,3
+34,Tyler James,Hyderabad,7,Spa Therapy,25-08-2025,2025-09-17T14:30:00.000Z,150,4000,booked,4
+35,Angela Price,Delhi,5,Pedicure,17-04-2025,2025-09-17T13:00:00.000Z,50,800,booked,5
+36,Brandon Morgan,Mumbai,2,Facial,06-02-2025,2025-09-17T16:00:00.000Z,60,1200,cancelled,null
+37,Heather Hall,Chennai,1,Haircut,12-03-2025,2025-09-17T12:00:00.000Z,45,500,booked,4
+38,Justin Sanders,Bangalore,3,Massage,24-05-2025,2025-09-17T15:30:00.000Z,90,2000,booked,5
+39,Karen Russell,Delhi,6,Hair Coloring,14-07-2025,2025-09-17T10:00:00.000Z,120,3500,booked,3
+40,Dylan Rivera,Hyderabad,4,Manicure,30-01-2025,2025-09-17T11:30:00.000Z,40,700,no-show,null
+41,Amber Diaz,Mumbai,7,Spa Therapy,27-06-2025,2025-09-17T17:00:00.000Z,150,4000,booked,5
+42,Gregory Torres,Chennai,1,Haircut,19-04-2025,2025-09-17T14:00:00.000Z,45,500,booked,3
+43,Lauren Jenkins,Bangalore,5,Pedicure,29-07-2025,2025-09-17T13:30:00.000Z,50,800,booked,5
+44,Scott Powell,Delhi,3,Massage,15-02-2025,2025-09-17T16:30:00.000Z,90,2000,booked,4
+45,Erica Flores,Hyderabad,6,Hair Coloring,05-05-2025,2025-09-17T12:00:00.000Z,120,3500,cancelled,null
+46,Benjamin Perry,Mumbai,2,Facial,28-03-2025,2025-09-17T15:00:00.000Z,60,1200,booked,4
+47,Ashley Patterson,Delhi,7,Spa Therapy,01-08-2025,2025-09-17T18:30:00.000Z,150,4000,booked,5
+48,Richard Griffin,Bangalore,4,Manicure,21-06-2025,2025-09-17T10:30:00.000Z,40,700,booked,3
+49,Christina Watson,Chennai,1,Haircut,10-05-2025,2025-09-17T11:00:00.000Z,45,500,booked,5
+50,Mark Kelly,Hyderabad,5,Pedicure,08-04-2025,2025-09-17T13:30:00.000Z,50,800,booked,4

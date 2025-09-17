@@ -1,0 +1,37 @@
+month,city,service_name,total_revenue
+2025-01,Chennai,Spa Therapy,4000
+2025-01,Mumbai,Haircut,500
+2025-02,Mumbai,Hair Coloring,3500
+2025-02,Delhi,Hair Coloring,3500
+2025-02,Delhi,Massage,2000
+2025-02,Hyderabad,Massage,2000
+2025-03,Chennai,Facial,1200
+2025-03,Chennai,Haircut,500
+2025-03,Bangalore,Pedicure,800
+2025-03,Mumbai,Facial,2400
+2025-04,Delhi,Manicure,700
+2025-04,Delhi,Pedicure,800
+2025-04,Hyderabad,Hair Coloring,3500
+2025-04,Hyderabad,Pedicure,800
+2025-04,Chennai,Haircut,500
+2025-05,Bangalore,Massage,2000
+2025-05,Mumbai,Massage,2000
+2025-05,Chennai,Hair Coloring,3500
+2025-05,Hyderabad,Haircut,1000
+2025-05,Bangalore,Spa Therapy,4000
+2025-05,Chennai,Haircut,500
+2025-05,Hyderabad,Massage,2000
+2025-06,Mumbai,Spa Therapy,4000
+2025-06,Chennai,Massage,2000
+2025-06,Bangalore,Manicure,1400
+2025-06,Hyderabad,Haircut,500
+2025-06,Mumbai,Facial,1200
+2025-06,Chennai,Manicure,700
+2025-07,Delhi,Hair Coloring,3500
+2025-07,Mumbai,Pedicure,800
+2025-07,Delhi,Haircut,500
+2025-07,Delhi,Manicure,700
+2025-07,Bangalore,Pedicure,1600
+2025-08,Hyderabad,Haircut,500
+2025-08,Hyderabad,Spa Therapy,4000
+2025-08,Delhi,Spa Therapy,4000
